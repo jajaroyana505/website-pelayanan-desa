@@ -1,0 +1,20 @@
+.carousel .carousel-item {
+    height: 500px;
+  }
+  
+  .carousel-item img {
+      position: absolute;
+      margin-top: -200px;
+      object-fit: cover;
+      top: 0;
+      left: 0;
+      min-height: 500px;
+}
+.carousel-item .gradien {
+    position: absolute;
+    z-index: 2;
+    background-color: black;
+    object-fit: cover;
+   
+    
+ }
